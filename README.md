@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/Nishu2696/DSA/tree/master/0638-shopping-offers) |
+| [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nishu2696/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu2696/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu2696/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nishu2696/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Binary Search
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
