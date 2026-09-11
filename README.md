@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nishu2696/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu2696/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -95,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2055-plates-between-candles](https://github.com/Nishu2696/DSA/tree/master/2055-plates-between-candles) |
+## Tree
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nishu2696/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Depth-First Search
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nishu2696/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nishu2696/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Binary Tree
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nishu2696/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
