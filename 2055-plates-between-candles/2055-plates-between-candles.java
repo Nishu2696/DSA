@@ -13,7 +13,7 @@ class Solution {
             closestLeft[i] = index;
         }
 
-        index = presum.size();;
+        index = presum.size();
         for (int i = n - 1; i >= 0; i--) {
             if (s.charAt(i) == '|') index--;
             closestRight[i] = index;
