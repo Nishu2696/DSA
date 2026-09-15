@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Nishu2696/DSA/tree/master/0055-jump-game) |
 | [0274-h-index](https://github.com/Nishu2696/DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Nishu2696/DSA/tree/master/0275-h-index-ii) |
 | [0638-shopping-offers](https://github.com/Nishu2696/DSA/tree/master/0638-shopping-offers) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Nishu2696/DSA/tree/master/0055-jump-game) |
 | [0638-shopping-offers](https://github.com/Nishu2696/DSA/tree/master/0638-shopping-offers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nishu2696/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Nishu2696/DSA/tree/master/0274-h-index) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Nishu2696/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
