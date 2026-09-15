@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nishu2696/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nishu2696/DSA/tree/master/0055-jump-game) |
+| [0260-single-number-iii](https://github.com/Nishu2696/DSA/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Nishu2696/DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Nishu2696/DSA/tree/master/0275-h-index-ii) |
 | [0638-shopping-offers](https://github.com/Nishu2696/DSA/tree/master/0638-shopping-offers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Nishu2696/DSA/tree/master/0260-single-number-iii) |
 | [0638-shopping-offers](https://github.com/Nishu2696/DSA/tree/master/0638-shopping-offers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nishu2696/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
