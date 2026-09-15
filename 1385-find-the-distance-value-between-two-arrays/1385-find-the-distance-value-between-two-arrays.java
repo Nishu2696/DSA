@@ -1,8 +1,5 @@
 class Solution {
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
-
         int count = 0;
 
         for (int num: arr1) {
