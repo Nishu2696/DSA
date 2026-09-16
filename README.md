@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Nishu2696/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu2696/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Nishu2696/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nishu2696/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Nishu2696/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Nishu2696/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Nishu2696/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nishu2696/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Nishu2696/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nishu2696/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Nishu2696/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nishu2696/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Nishu2696/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Nishu2696/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nishu2696/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nishu2696/DSA/tree/master/0055-jump-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Nishu2696/DSA/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
