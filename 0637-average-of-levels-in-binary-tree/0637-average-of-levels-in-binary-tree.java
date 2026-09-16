@@ -23,11 +23,11 @@ class Solution {
 
         while (!queue.isEmpty()) {
             int size = queue.size();
-            long sum = 0;
+            double sum = 0;
 
             for (int i = 0; i < size; i++) {
                 TreeNode node = queue.poll();
-                sum = sum + node.val;
+                sum += (double)node.val;
 
                 if (node != null) {
                     if (node.left != null) {
@@ -39,7 +39,7 @@ class Solution {
                 }
             }
 
-            double answer = (double) sum / size;
+            double answer = sum / (double)size;
 
             result.add(answer);
         }
