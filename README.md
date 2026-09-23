@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Nishu2696/DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Nishu2696/DSA/tree/master/0275-h-index-ii) |
 | [0638-shopping-offers](https://github.com/Nishu2696/DSA/tree/master/0638-shopping-offers) |
+| [0658-find-k-closest-elements](https://github.com/Nishu2696/DSA/tree/master/0658-find-k-closest-elements) |
 | [0835-image-overlap](https://github.com/Nishu2696/DSA/tree/master/0835-image-overlap) |
 | [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nishu2696/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/Nishu2696/DSA/tree/master/0275-h-index-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Nishu2696/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Nishu2696/DSA/tree/master/0658-find-k-closest-elements) |
 | [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nishu2696/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishu2696/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Nishu2696/DSA/tree/master/0274-h-index) |
+| [0658-find-k-closest-elements](https://github.com/Nishu2696/DSA/tree/master/0658-find-k-closest-elements) |
 | [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nishu2696/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishu2696/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Nishu2696/DSA/tree/master/0658-find-k-closest-elements) |
 | [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nishu2696/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Prefix Sum
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Nishu2696/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Nishu2696/DSA/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishu2696/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting Sort
 |  |
@@ -201,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Nishu2696/DSA/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishu2696/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
