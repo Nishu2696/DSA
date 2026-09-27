@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nishu2696/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Nishu2696/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishu2696/DSA/tree/master/0055-jump-game) |
 | [0260-single-number-iii](https://github.com/Nishu2696/DSA/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Nishu2696/DSA/tree/master/0274-h-index) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nishu2696/DSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Nishu2696/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishu2696/DSA/tree/master/0055-jump-game) |
 | [0638-shopping-offers](https://github.com/Nishu2696/DSA/tree/master/0638-shopping-offers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nishu2696/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nishu2696/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nishu2696/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
