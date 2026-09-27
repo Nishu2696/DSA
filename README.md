@@ -235,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nishu2696/DSA/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Nishu2696/DSA/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
