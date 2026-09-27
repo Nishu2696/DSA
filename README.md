@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Nishu2696/DSA/tree/master/0835-image-overlap) |
 | [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nishu2696/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nishu2696/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishu2696/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishu2696/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nishu2696/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Nishu2696/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Nishu2696/DSA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nishu2696/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nishu2696/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nishu2696/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Combinatorics
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Nishu2696/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nishu2696/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishu2696/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2055-plates-between-candles](https://github.com/Nishu2696/DSA/tree/master/2055-plates-between-candles) |
 ## Tree
@@ -239,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Nishu2696/DSA/tree/master/0184-department-highest-salary) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nishu2696/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nishu2696/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
