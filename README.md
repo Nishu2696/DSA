@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nishu2696/DSA/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Nishu2696/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nishu2696/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishu2696/DSA/tree/master/0055-jump-game) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nishu2696/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nishu2696/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu2696/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nishu2696/DSA/tree/master/0014-longest-common-prefix) |
 | [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 ## Sorting
 |  |
