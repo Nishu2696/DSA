@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishu2696/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nishu2696/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2055-plates-between-candles](https://github.com/Nishu2696/DSA/tree/master/2055-plates-between-candles) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Nishu2696/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nishu2696/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu2696/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nishu2696/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu2696/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Nishu2696/DSA/tree/master/1268-search-suggestions-system) |
 | [2055-plates-between-candles](https://github.com/Nishu2696/DSA/tree/master/2055-plates-between-candles) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Nishu2696/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nishu2696/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Nishu2696/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nishu2696/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Nishu2696/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Nishu2696/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Nishu2696/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nishu2696/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nishu2696/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Nishu2696/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Nishu2696/DSA/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Nishu2696/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Nishu2696/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nishu2696/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -255,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nishu2696/DSA/tree/master/0206-reverse-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Nishu2696/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/Nishu2696/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 <!---LeetCode Topics End-->
