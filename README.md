@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Nishu2696/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Nishu2696/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishu2696/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nishu2696/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishu2696/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nishu2696/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2055-plates-between-candles](https://github.com/Nishu2696/DSA/tree/master/2055-plates-between-candles) |
@@ -262,9 +263,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nishu2696/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Nishu2696/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Nishu2696/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nishu2696/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nishu2696/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nishu2696/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nishu2696/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nishu2696/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
